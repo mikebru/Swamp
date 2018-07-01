@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 1a6414042c60145d0a0433f42eb9e371
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: IMG_0341_jpg
+    100002: IMG_0342_jpg
+    100004: IMG_0343_jpg
+    100006: IMG_0344_jpg
+    100008: IMG_0345_jpg
+    100010: IMG_0346_jpg
+    100012: IMG_0347_jpg
+    100014: IMG_0348_jpg
+    100016: IMG_0349_jpg
+    100018: IMG_0350_jpg
+    100020: IMG_0351_jpg
+    100022: IMG_0352_jpg
+    100024: IMG_0353_jpg
+    100026: IMG_0354_jpg
+    100028: IMG_0355_jpg
+    100030: IMG_0356_jpg
+    100032: IMG_0357_jpg
+    100034: IMG_0358_jpg
+    100036: IMG_0359_jpg
+    100038: IMG_0360_jpg
+    100040: IMG_0361_jpg
+    100042: IMG_0362_jpg
+    100044: IMG_0363_jpg
+    100046: IMG_0364_jpg
+    100048: IMG_0365_jpg
+    100050: mainMeshNode
+    100052: //RootNode
+    400000: IMG_0341_jpg
+    400002: IMG_0342_jpg
+    400004: IMG_0343_jpg
+    400006: IMG_0344_jpg
+    400008: IMG_0345_jpg
+    400010: IMG_0346_jpg
+    400012: IMG_0347_jpg
+    400014: IMG_0348_jpg
+    400016: IMG_0349_jpg
+    400018: IMG_0350_jpg
+    400020: IMG_0351_jpg
+    400022: IMG_0352_jpg
+    400024: IMG_0353_jpg
+    400026: IMG_0354_jpg
+    400028: IMG_0355_jpg
+    400030: IMG_0356_jpg
+    400032: IMG_0357_jpg
+    400034: IMG_0358_jpg
+    400036: IMG_0359_jpg
+    400038: IMG_0360_jpg
+    400040: IMG_0361_jpg
+    400042: IMG_0362_jpg
+    400044: IMG_0363_jpg
+    400046: IMG_0364_jpg
+    400048: IMG_0365_jpg
+    400050: mainMeshNode
+    400052: //RootNode
+    2000000: IMG_0341_jpg
+    2000002: IMG_0342_jpg
+    2000004: IMG_0343_jpg
+    2000006: IMG_0344_jpg
+    2000008: IMG_0345_jpg
+    2000010: IMG_0346_jpg
+    2000012: IMG_0347_jpg
+    2000014: IMG_0348_jpg
+    2000016: IMG_0349_jpg
+    2000018: IMG_0350_jpg
+    2000020: IMG_0351_jpg
+    2000022: IMG_0352_jpg
+    2000024: IMG_0353_jpg
+    2000026: IMG_0354_jpg
+    2000028: IMG_0355_jpg
+    2000030: IMG_0356_jpg
+    2000032: IMG_0357_jpg
+    2000034: IMG_0358_jpg
+    2000036: IMG_0359_jpg
+    2000038: IMG_0360_jpg
+    2000040: IMG_0361_jpg
+    2000042: IMG_0362_jpg
+    2000044: IMG_0363_jpg
+    2000046: IMG_0364_jpg
+    2000048: IMG_0365_jpg
+    2100000: Material_0
+    2300000: mainMeshNode
+    3300000: mainMeshNode
+    4300000: mainMeshNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
