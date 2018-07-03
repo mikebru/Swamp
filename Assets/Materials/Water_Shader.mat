@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Water_Shader
   m_Shader: {fileID: 4800000, guid: 0e2d57f0e606d8c4fa4f7a30f625234c, type: 3}
@@ -32,9 +32,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _DepthFactor: 0.75
-    - _DistortStrength: 9.54
+    - _DistortStrength: 1
     - _ExtraHeight: -0.2
-    - _WaveAmp: 0.38
+    - _WaveAmp: 0.1
     - _WaveSpeed: 57.67
     m_Colors:
     - _Color: {r: 0.117435, g: 0.25796986, b: 0.27358484, a: 0.95686275}
